@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="AzureAcresData.Crop">
+    <Name>Apple Tree</Name>
+    <Type>AppleTree</Type>
+    <Stages>2</Stages>
+    <GrowTime>3600000</GrowTime>
+    <TextureName>Textures/Crops/AppleTree</TextureName>
+    <InventoryInitialTextureName>Textures/Crops/AppleTree</InventoryInitialTextureName>
+    <InventoryCompleteTextureName>Textures/Crops/AppleTree</InventoryCompleteTextureName>
+    <Dimensions>64 128</Dimensions>
+    <WaterTime>3600000</WaterTime>
+  </Asset>
+</XnaContent>

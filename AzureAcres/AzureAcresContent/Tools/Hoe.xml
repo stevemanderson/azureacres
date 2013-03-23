@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="AzureAcresData.Tool">
+    <Name>Spade</Name>
+    <Type>Hoe</Type>
+    <InventoryTextureName>Textures/HUD/Inventory/Spade</InventoryTextureName>
+    <Sprite>
+      <Name>Sprite</Name>
+      <TextureName>Textures/Tools/GirlHoeing</TextureName>
+      <FrameDimensions>32 64</FrameDimensions>
+      <FramesPerRow>3</FramesPerRow>
+      <SourceOffset>32 64</SourceOffset>
+      <Animations>
+        <Item>
+          <Name>HoeSouth</Name>
+          <StartingFrame>1</StartingFrame>
+          <EndingFrame>3</EndingFrame>
+          <Interval>300</Interval>
+          <IsLoop>false</IsLoop>
+        </Item>
+        <Item>
+          <Name>HoeWest</Name>
+          <StartingFrame>4</StartingFrame>
+          <EndingFrame>6</EndingFrame>
+          <Interval>300</Interval>
+          <IsLoop>false</IsLoop>
+        </Item>
+        <Item>
+          <Name>HoeNorth</Name>
+          <StartingFrame>7</StartingFrame>
+          <EndingFrame>9</EndingFrame>
+          <Interval>300</Interval>
+          <IsLoop>false</IsLoop>
+        </Item>
+        <Item>
+          <Name>HoeEast</Name>
+          <StartingFrame>10</StartingFrame>
+          <EndingFrame>12</EndingFrame>
+          <Interval>300</Interval>
+          <IsLoop>false</IsLoop>
+        </Item>
+      </Animations>
+    </Sprite>
+  </Asset>
+</XnaContent>

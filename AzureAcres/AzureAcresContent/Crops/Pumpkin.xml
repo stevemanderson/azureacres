@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="AzureAcresData.Crop">
+    <Name>Pumpkin</Name>
+    <Type>Pumpkin</Type>
+    <Stages>5</Stages>
+    <GrowTime>5400000</GrowTime>
+    <TextureName>Textures/Crops/Pumpkin</TextureName>
+    <InventoryInitialTextureName>Textures/HUD/Inventory/PumpkinSeeds</InventoryInitialTextureName>
+    <InventoryCompleteTextureName>Textures/HUD/Inventory/Pumpkin</InventoryCompleteTextureName>
+    <Dimensions>32 32</Dimensions>
+    <WaterTime>3600000</WaterTime>
+  </Asset>
+</XnaContent>

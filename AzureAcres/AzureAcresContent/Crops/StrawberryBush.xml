@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="AzureAcresData.Crop">
+    <Name>Strawberry Bush</Name>
+    <Type>StrawberryBush</Type>
+    <Stages>5</Stages>
+    <GrowTime>3600000</GrowTime>
+    <TextureName>Textures/Crops/StrawberryBush</TextureName>
+    <InventoryInitialTextureName>Textures/HUD/Inventory/StrawberryBushSeeds</InventoryInitialTextureName>
+    <InventoryCompleteTextureName>Textures/HUD/Inventory/Strawberries</InventoryCompleteTextureName>
+    <Dimensions>32 32</Dimensions>
+    <WaterTime>3600000</WaterTime>
+  </Asset>
+</XnaContent>

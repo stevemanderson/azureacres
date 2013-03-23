@@ -1,0 +1,2 @@
+c:\Projects\AzureAcres\AzureAcres\AzureAcresContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup\Projects\AzureAcres\AzureAcres\AzureAcresContent\obj\x86\Debug\ResolveAssemblyReference.cache

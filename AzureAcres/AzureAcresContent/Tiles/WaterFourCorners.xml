@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="AzureAcresData.AnimatedTile">
+    <Name>WaterFourCorners</Name>
+    <Sprite>
+      <Name>WaterFourCorners</Name>
+      <TextureName>Textures/Maps/Outside</TextureName>
+      <FrameDimensions>32 32</FrameDimensions>
+      <FramesPerRow>3</FramesPerRow>
+      <SourceOffset>32 32</SourceOffset>
+      <Animations>
+        <Item>
+          <Name>WaterFourCorners</Name>
+          <StartingFrame>4</StartingFrame>
+          <EndingFrame>6</EndingFrame>
+          <Interval>2000</Interval>
+          <IsLoop>true</IsLoop>
+        </Item>
+      </Animations>
+    </Sprite>
+  </Asset>
+</XnaContent>

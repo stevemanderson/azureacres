@@ -1,0 +1,13 @@
+c:\Projects\AzureAcres\AzureAcresMapEditor\bin\Release\AzureAcresMapEditor.exe
+c:\Projects\AzureAcres\AzureAcresMapEditor\bin\Release\AzureAcresMapEditor.pdb
+c:\Projects\AzureAcres\AzureAcresMapEditor\bin\Release\AzureAcresData.dll
+c:\Projects\AzureAcres\AzureAcresMapEditor\bin\Release\AzureAcresData.pdb
+c:\Projects\AzureAcres\AzureAcresMapEditor\obj\x86\Release\ResolveAssemblyReference.cache
+c:\Projects\AzureAcres\AzureAcresMapEditor\obj\x86\Release\AzureAcresMapEditor.MainForm.resources
+c:\Projects\AzureAcres\AzureAcresMapEditor\obj\x86\Release\AzureAcresMapEditor.MapPropertiesForm.resources
+c:\Projects\AzureAcres\AzureAcresMapEditor\obj\x86\Release\AzureAcresMapEditor.Properties.Resources.resources
+c:\Projects\AzureAcres\AzureAcresMapEditor\obj\x86\Release\GenerateResource.read.1.tlog
+c:\Projects\AzureAcres\AzureAcresMapEditor\obj\x86\Release\GenerateResource.write.1.tlog
+c:\Projects\AzureAcres\AzureAcresMapEditor\obj\x86\Release\AzureAcresMapEditor.exe
+c:\Projects\AzureAcres\AzureAcresMapEditor\obj\x86\Release\AzureAcresMapEditor.pdb
+c:\Projects\AzureAcres\AzureAcresMapEditor\obj\x86\Release\AzureAcresMapEditor.PortalForm.resources

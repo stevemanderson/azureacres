@@ -1,0 +1,6 @@
+c:\Projects\AzureAcres\AzureAcresData\bin\x86\Release\AzureAcresData.dll
+c:\Projects\AzureAcres\AzureAcresData\bin\x86\Release\AzureAcresData.pdb
+c:\Projects\AzureAcres\AzureAcresData\obj\x86\Release\ResolveAssemblyReference.cache
+c:\Projects\AzureAcres\AzureAcresData\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Projects\AzureAcres\AzureAcresData\obj\x86\Release\AzureAcresData.dll
+c:\Projects\AzureAcres\AzureAcresData\obj\x86\Release\AzureAcresData.pdb

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="AzureAcresData.Character">
+    <Name>Girl</Name>
+    <MapSprite>
+      <Name>MapSprite</Name>
+      <TextureName>Textures/Characters/GirlIdle</TextureName>
+      <FrameDimensions>32 64</FrameDimensions>
+      <FramesPerRow>1</FramesPerRow>
+      <SourceOffset>32 64</SourceOffset> 
+      <Animations />
+    </MapSprite>
+    <WalkingSprite>
+      <Name>WalkingSprite</Name>
+      <TextureName>Textures/Characters/GirlWalking</TextureName>
+      <FrameDimensions>32 64</FrameDimensions>
+      <FramesPerRow>4</FramesPerRow>
+      <SourceOffset>32 64</SourceOffset>
+      <Animations />
+    </WalkingSprite>
+  </Asset>
+</XnaContent>
