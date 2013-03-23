@@ -15,6 +15,28 @@ TestResults
 
 # Build results
 [Dd]ebug/
+x86/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+*.dll
+.builds
+
 [Rr]elease/
 x64/
 *_i.c
@@ -35,6 +57,7 @@ x64/
 *.log
 *.vspscc
 *.vssscc
+*.dll
 .builds
 
 # Visual C++ cache files
