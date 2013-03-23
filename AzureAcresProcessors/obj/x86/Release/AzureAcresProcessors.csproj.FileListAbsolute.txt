@@ -1,7 +1,0 @@
-c:\Projects\AzureAcres\AzureAcresProcessors\bin\x86\Release\AzureAcresProcessors.dll
-c:\Projects\AzureAcres\AzureAcresProcessors\bin\x86\Release\AzureAcresProcessors.pdb
-c:\Projects\AzureAcres\AzureAcresProcessors\bin\x86\Release\AzureAcresData.dll
-c:\Projects\AzureAcres\AzureAcresProcessors\bin\x86\Release\AzureAcresData.pdb
-c:\Projects\AzureAcres\AzureAcresProcessors\obj\x86\Release\ResolveAssemblyReference.cache
-c:\Projects\AzureAcres\AzureAcresProcessors\obj\x86\Release\AzureAcresProcessors.dll
-c:\Projects\AzureAcres\AzureAcresProcessors\obj\x86\Release\AzureAcresProcessors.pdb
